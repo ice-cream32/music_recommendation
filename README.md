@@ -1,4 +1,6 @@
 # music_recommendation
 针对传统序列推荐模型在音乐场景下的“流行度偏差”与“新歌冷启动”痛点，设计并实现了一套三流深度序列推荐架构（FDSA-Graph），处理亿级用户交互数据，显著提升了长尾音乐的分发效率。
 
+数据集来源：https://huggingface.co/datasets/yandex/yambda#download
+
 注：本项目为作者本科毕业论文设计，论文内容暂未上传
