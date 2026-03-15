@@ -3,4 +3,4 @@
 
 数据集来源：https://huggingface.co/datasets/yandex/yambda#download
 
-注：本项目为作者本科毕业论文设计，论文内容暂未上传
+注：本项目为作者本科毕业论文模型demo，论文内容暂未上传
